@@ -8,13 +8,13 @@ In my free time, I enjoy exploring the latest trends in AI an ML Technology . I 
 
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-  <img width="250" src="./assets/02.png">
+  <img width="250" src="./assets/02.jpg" alt="Image">
 </p>
 
 
 <div align="center">
     <a href="https://www.linkedin.com/in/omar-araby-479149185" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" />
+      <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkIn Badge" />
     </a>
     <a href="mailto:omararaby789@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/>
