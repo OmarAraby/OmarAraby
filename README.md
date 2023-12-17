@@ -8,7 +8,7 @@ In my free time, I enjoy exploring the latest trends in AI an ML Technology . I 
 
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-  <img width="250" src="./assets/01.png">
+  <img width="250" src="./assets/02.png">
 </p>
 
 
