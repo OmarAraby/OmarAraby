@@ -1,4 +1,4 @@
-<h4 align="center"><samp>👋 Hey there! I'm Omar Araby — a passionate Software Engineer focused on building scalable and user-friendly web applications.</samp></h4>
+<h4 align="center">👋 Hey there! I'm Omar Araby — a passionate Software Engineer focused on building scalable and user-friendly web applications.</h4>
 
 <p align="center">
 I specialize in backend development using <strong>Python (Django)</strong> and <strong>C# (.NET)</strong>, with hands-on experience in <strong>Node.js (Express)</strong>. I’ve also worked on full-stack projects using <strong>React</strong> and <strong>Angular</strong>, integrating APIs and managing both frontend and backend logic.
