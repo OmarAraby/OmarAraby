@@ -31,13 +31,6 @@ Outside of development, I enjoy learning about <strong>AI</strong>, <strong>mach
  
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omararaby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omararaby&layout=compact&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omararaby&theme=tokyonight" alt="GitHub Streak"/> </div> 
-
-
-
----
 
 
 ### 📫 Connect with me
